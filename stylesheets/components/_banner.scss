@@ -1,0 +1,8 @@
+.home-banner {
+  background-image: linear-gradient(to bottom, rgba(0,101,168,0.1)  60%, rgba(20,20,20,0.8) 90%), asset-url("banner.jpg");
+  background-size: cover;
+  height: 100vh;
+  color: black;
+  text-align: center;
+  padding-top: 40vh;
+}
